@@ -55,17 +55,17 @@
 
 ---
 
-<!-- ===== FEATURED PROJECTS ===== -->
-<h2 align="center">🚀 Featured Projects</h2>
+<!-- ===== GITHUB STATS ===== -->
+<h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
-  <a href="https://github.com/codewithSaidkarim/network-scanner">
-    <img src="https://img.shields.io/badge/Network_Scanner-Python-00FF99?style-for-the-badge" />
-  </a>
-  <br>A Python tool with Nmap integration for detecting vulnerabilities in local networks.<br>
-  <a href="https://github.com/codewithSaidkarim/secure-chat">
-    <img src="https://img.shields.io/badge/Secure_Chat-C-0066FF?style-for-the-badge" />
-  </a>
-  <br>A secure chat app with AES-256 encryption, built in C.<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaidkarimNiyazov&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidkarimNiyazov&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=SaidkarimNiyazov&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<!-- ===== ACTIVITY GRAPH ===== -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaidkarimNiyazov&theme=tokyo-night" />
 </p>
 
 ---
@@ -75,4 +75,11 @@
 <p align="center">
   Open to collaborating on tech projects, hackathons, or mentorship.<br>
   Reach out via <a href="https://t.me/Saidkarimniyazov">Telegram</a> or <a href="https://www.linkedin.com/in/saidkarim-niyazov-23202a378">LinkedIn</a>!
+</p>
+
+---
+
+<!-- ===== FOOTER ===== -->
+<p align="center">
+  <img src="https://i.ibb.co/1Jg6VwD/thanks-for-visiting-neon.gif" width="80%" />
 </p>
