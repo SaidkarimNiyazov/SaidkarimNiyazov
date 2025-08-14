@@ -54,23 +54,18 @@
 </p>
 
 ---
-<!-- ===== GITHUB STATS & ACTIVITY ===== -->
+<!-- ===== ACTIVITY GRAPH (Alternative Style) ===== -->
 <p align="center">
-
-  <!-- Profile Overview -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/overview?username=SaidkarimNiyazov&theme=dracula" alt="Profile Overview" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidkarimNiyazov&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SaidkarimNiyazov&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-
-  <!-- Streak / Contributions -->
-  <img src="https://streak-stats.demolab.com?user=SaidkarimNiyazov&theme=dracula&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaidkarimNiyazov&theme=dracula" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaidkarimNiyazov&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaidkarimNiyazov&theme=dracula" />
+</p>
 ---
 
 <!-- ===== CALL TO ACTION ===== -->
