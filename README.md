@@ -62,24 +62,26 @@
   <img src="https://streak-stats.demolab.com?user=codewithSaidkarim&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<!-- ===== ACTIVITY GRAPH (Alternative Style) ===== -->
+<!-- ===== ACTIVITY GRAPH (Colorful Style) ===== -->
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaidkarimNiyazov&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaidkarimNiyazov&theme=radical" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaidkarimNiyazov&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaidkarimNiyazov&theme=radical" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaidkarimNiyazov&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaidkarimNiyazov&theme=radical" alt="Productive Time" />
 </p>
+
 ---
-<!-- ===== TROPHIES ===== -->
+
+<!-- ===== TROPHIES (Colorful) ===== -->
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithSaidkarim&theme=matrix&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SaidkarimNiyazov&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
 <!-- ===== CALL TO ACTION ===== -->
