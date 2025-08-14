@@ -54,7 +54,16 @@
 </p>
 
 ---
+<!-- ===== GITHUB STATS ===== -->
+<h2 align="center">📊 My GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithSaidkarim&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithSaidkarim&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=codewithSaidkarim&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
 <!-- ===== ACTIVITY GRAPH (Alternative Style) ===== -->
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaidkarimNiyazov&theme=dracula" />
 </p>
@@ -67,6 +76,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaidkarimNiyazov&theme=dracula" />
 </p>
 ---
+<!-- ===== TROPHIES ===== -->
+<h2 align="center">🏆 Achievements</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithSaidkarim&theme=matrix&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 <!-- ===== CALL TO ACTION ===== -->
 <h2 align="center">🤝 Let's Connect!</h2>
