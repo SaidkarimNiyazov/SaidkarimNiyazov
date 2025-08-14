@@ -54,20 +54,21 @@
 </p>
 
 ---
-
 <!-- ===== GITHUB STATS & ACTIVITY ===== -->
 <p align="center">
+
   <!-- Profile Overview -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/overview?username=SaidkarimNiyazov&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/overview?username=SaidkarimNiyazov&theme=dracula" alt="Profile Overview" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidkarimNiyazov&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidkarimNiyazov&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SaidkarimNiyazov&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaidkarimNiyazov&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
 
   <!-- Streak / Contributions -->
-  <img src="https://streak-stats.demolab.com?user=SaidkarimNiyazov&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SaidkarimNiyazov&theme=dracula&hide_border=true" alt="GitHub Streak" />
+
 </p>
 
 ---
