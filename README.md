@@ -55,27 +55,20 @@
 
 ---
 
-<!-- ===== GITHUB STATS ===== -->
-<h2 align="center">📊 My GitHub Stats</h2>
+<!-- ===== GITHUB STATS & ACTIVITY ===== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaidkarimNiyazov&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidkarimNiyazov&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=SaidkarimNiyazov&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<!-- ===== ACTIVITY GRAPH (Alternative Style) ===== -->
-<p align="center">
+  <!-- Profile Overview -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/overview?username=SaidkarimNiyazov&theme=radical" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaidkarimNiyazov&theme=dracula" />
-</p>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidkarimNiyazov&layout=compact&theme=radical&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaidkarimNiyazov&theme=dracula" />
-</p>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SaidkarimNiyazov&show_icons=true&theme=radical" />
 
+  <!-- Streak / Contributions -->
+  <img src="https://streak-stats.demolab.com?user=SaidkarimNiyazov&theme=radical&hide_border=true" />
+</p>
 
 ---
 
