@@ -62,11 +62,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidkarimNiyazov&layout=compact&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=SaidkarimNiyazov&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
 <!-- ===== ACTIVITY GRAPH (Alternative Style) ===== -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/overview?username=SaidkarimNiyazov&theme=radical" />
 </p>
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaidkarimNiyazov&theme=dracula" />
