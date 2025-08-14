@@ -64,8 +64,9 @@
 </p>
 <!-- ===== ACTIVITY GRAPH (Alternative Style) ===== -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaidkarimNiyazov&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/overview?username=SaidkarimNiyazov&theme=radical" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaidkarimNiyazov&theme=dracula" />
