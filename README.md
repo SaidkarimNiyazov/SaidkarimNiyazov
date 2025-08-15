@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:32CD32&height=220&section=header&text=SAIDKARIM%20NIYAZOV&fontSize=45&fontColor=FFFFFF&animation=fade&fontAlignY=40"/>
 </p>
 
-
 <!-- ===== TYPING NAME EFFECT ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=SAIDKARIM+NIYAZOV;Tech+Enthusiast;Cybersecurity+Learner;Fast+Learner;Mentor;Volunteering+for+Tech" alt="Typing SVG" />
@@ -18,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1B2A&color=00BFFF" />
   </a>
   <a href="https://github.com/SaidkarimNiyazov">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1B2A&color=FFA500" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1B2A&color=32CD32" />
   </a>
 </p>
 
@@ -51,7 +50,21 @@
   <img src="https://img.shields.io/badge/C-Intermediate-00BFFF?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Beginner-32CD32?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Cybersecurity-Basic-FF4500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Networking-Advanced-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-Advanced-32CD32?style=for-the-badge" />
+</p>
+
+---
+
+<!-- ===== CORE VALUES / QADRİYATLAR ===== -->
+<h2 align="center">💡 Core Values</h2>
+<p align="center">
+  <ul>
+    <li>Curiosity & Continuous Learning</li>
+    <li>Integrity & Responsibility</li>
+    <li>Collaboration & Mentorship</li>
+    <li>Innovation & Problem Solving</li>
+    <li>Community Volunteering</li>
+  </ul>
 </p>
 
 ---
@@ -59,20 +72,22 @@
 <!-- ===== GITHUB STATS ===== -->
 <h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithSaidkarim&show_icons=true&theme=radical&bg_color=0D1B2A&title_color=00BFFF&icon_color=FFA500" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithSaidkarim&show_icons=true&theme=radical&bg_color=0D1B2A&title_color=00BFFF&icon_color=32CD32" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithSaidkarim&layout=compact&theme=radical&bg_color=0D1B2A&title_color=00BFFF" height="165" />
-  <img src="https://streak-stats.demolab.com?user=codewithSaidkarim&theme=radical&background=0D1B2A&fire=FFA500&currStreakLabel=32CD32" height="165" />
+  <img src="https://streak-stats.demolab.com?user=codewithSaidkarim&theme=radical&background=0D1B2A&fire=FF4500&currStreakLabel=32CD32" height="165" />
 </p>
+
+---
 
 <!-- ===== ACTIVITY GRAPH ===== -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaidkarimNiyazov&theme=radical&bg_color=0D1B2A&title_color=00BFFF&icon_color=FFA500" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaidkarimNiyazov&theme=radical&bg_color=0D1B2A&title_color=00BFFF&icon_color=32CD32" alt="Profile Details" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaidkarimNiyazov&theme=radical&bg_color=0D1B2A&title_color=00BFFF&icon_color=32CD32" alt="Stats" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaidkarimNiyazov&theme=radical&bg_color=0D1B2A&title_color=00BFFF&icon_color=FFA500" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaidkarimNiyazov&theme=radical&bg_color=0D1B2A&title_color=00BFFF&icon_color=32CD32" alt="Productive Time" />
 </p>
 
 ---
