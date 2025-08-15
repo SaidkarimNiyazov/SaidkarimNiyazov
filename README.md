@@ -63,6 +63,8 @@
   <img src="https://streak-stats.demolab.com?user=codewithSaidkarim&theme=radical&background=0D1B2A&fire=FFA500&currStreakLabel=32CD32" height="165" />
 </p>
 
+---
+
 <!-- ===== ACTIVITY GRAPH ===== -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaidkarimNiyazov&theme=radical&bg_color=0D1B2A&title_color=00BFFF&icon_color=FFA500" alt="Profile Details" />
@@ -81,6 +83,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaidkarimNiyazov&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
+
+---
 
 <!-- ===== CALL TO ACTION ===== -->
 <h2 align="center">🤝 Let's Connect!</h2>
