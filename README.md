@@ -141,12 +141,18 @@
 </p>
 
 ---
-
-<!-- ===== ACTIVITY GRAPH ===== -->
+<!-- ===== ACTIVITY GRAPH (Alternative Style) ===== -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithSaidkarim&theme=tokyo-night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaidkarimNiyazov&theme=dracula" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaidkarimNiyazov&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaidkarimNiyazov&theme=dracula" />
+</p>
 ---
 
 <!-- ===== TROPHIES ===== -->
