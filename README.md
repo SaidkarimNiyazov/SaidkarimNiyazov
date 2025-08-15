@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:32CD32,100:FFA500&height=220&section=header&text=SAIDKARIM%20NIYAZOV&fontSize=45&fontColor=FFFFFF&animation=fade&fontAlignY=40"/>
 </p>
 
+
 <!-- ===== TYPING NAME EFFECT ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=SAIDKARIM+NIYAZOV;Tech+Enthusiast;Cybersecurity+Learner;Fast+Learner;Mentor;Volunteering+for+Tech" alt="Typing SVG" />
