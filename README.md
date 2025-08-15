@@ -120,19 +120,6 @@
 </p>
 
 ---
-
-<!-- ===== GITHUB STATUS BADGES ===== -->
-<h2 align="center">📊 GitHub Status</h2>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/SaidkarimNiyazov?label=Followers&style=for-the-badge&color=00FF99&logo=github" />
-  <img src="https://img.shields.io/github/stars/SaidkarimNiyazov?label=Stars&style=for-the-badge&color=0066FF&logo=github" />
-  <img src="https://img.shields.io/github/issues/SaidkarimNiyazov?label=Issues&style=for-the-badge&color=FF3366&logo=github" />
-  <img src="https://img.shields.io/github/forks/SaidkarimNiyazov?label=Forks&style=for-the-badge&color=FFFF00&logo=github" />
-  <img src="https://img.shields.io/github/contributors/SaidkarimNiyazov?label=Contributors&style=for-the-badge&color=FF4500&logo=github" />
-</p>
-
----
-
 <!-- ===== GITHUB STATS ===== -->
 <h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
