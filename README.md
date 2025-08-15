@@ -74,6 +74,7 @@
 
 ---
 
+
 <!-- ===== TECH STACK ===== -->
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
@@ -86,6 +87,7 @@
 
 ---
 
+
 <!-- ===== CURRENTLY LEARNING ===== -->
 <h2 align="center">📚 Currently Learning</h2>
 <p align="center">
@@ -95,6 +97,7 @@
 </p>
 
 ---
+
 
 <!-- ===== FEATURED PROJECTS ===== -->
 <h2 align="center">🚀 Featured Projects</h2>
@@ -111,6 +114,7 @@
 
 ---
 
+
 <!-- ===== CERTIFICATIONS ===== -->
 <h2 align="center">🏅 Certifications</h2>
 <p align="center">
@@ -119,7 +123,9 @@
   <img src="https://img.shields.io/badge/CompTIA_Security+-FF3366?style=for-the-badge" />
 </p>
 
+
 ---
+
 <!-- ===== GITHUB STATS ===== -->
 <h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
@@ -127,6 +133,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidkarimNiyazov&layout=compact&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=SaidkarimNiyazov&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
 
 ---
 
@@ -139,11 +146,13 @@
 
 ---
 
+
 <!-- ===== TROPHIES ===== -->
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaidkarimNiyazov&theme=matrix&no-frame=true&no-bg=true&margin-w=4" />
 </p>
+
 
 ---
 
