@@ -99,11 +99,11 @@
 <!-- ===== FEATURED PROJECTS ===== -->
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center">
-  <a href="https://github.com/codewithSaidkarim/network-scanner">
+  <a href="https://github.com/SaidkarimNiyazov/network-scanner">
     <img src="https://img.shields.io/badge/Network_Scanner-Python-00FF99?style-for-the-badge" />
   </a>
   <br>A Python tool with Nmap integration for detecting vulnerabilities in local networks.<br>
-  <a href="https://github.com/codewithSaidkarim/secure-chat">
+  <a href="https://github.com/SaidkarimNiyazov/secure-chat">
     <img src="https://img.shields.io/badge/Secure_Chat-C-0066FF?style-for-the-badge" />
   </a>
   <br>A secure chat app with AES-256 end-to-end encryption, built in C.<br>
@@ -123,11 +123,11 @@
 <!-- ===== GITHUB STATUS BADGES ===== -->
 <h2 align="center">📊 GitHub Status</h2>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/codewithSaidkarim?label=Followers&style=for-the-badge&color=00FF99&logo=github" />
-  <img src="https://img.shields.io/github/stars/codewithSaidkarim?label=Stars&style=for-the-badge&color=0066FF&logo=github" />
-  <img src="https://img.shields.io/github/issues/codewithSaidkarim?label=Issues&style=for-the-badge&color=FF3366&logo=github" />
-  <img src="https://img.shields.io/github/forks/codewithSaidkarim?label=Forks&style=for-the-badge&color=FFFF00&logo=github" />
-  <img src="https://img.shields.io/github/contributors/codewithSaidkarim?label=Contributors&style=for-the-badge&color=FF4500&logo=github" />
+  <img src="https://img.shields.io/github/followers/SaidkarimNiyazov?label=Followers&style=for-the-badge&color=00FF99&logo=github" />
+  <img src="https://img.shields.io/github/stars/SaidkarimNiyazov?label=Stars&style=for-the-badge&color=0066FF&logo=github" />
+  <img src="https://img.shields.io/github/issues/SaidkarimNiyazov?label=Issues&style=for-the-badge&color=FF3366&logo=github" />
+  <img src="https://img.shields.io/github/forks/SaidkarimNiyazov?label=Forks&style=for-the-badge&color=FFFF00&logo=github" />
+  <img src="https://img.shields.io/github/contributors/SaidkarimNiyazov?label=Contributors&style=for-the-badge&color=FF4500&logo=github" />
 </p>
 
 ---
@@ -135,9 +135,9 @@
 <!-- ===== GITHUB STATS ===== -->
 <h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithSaidkarim&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithSaidkarim&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=codewithSaidkarim&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaidkarimNiyazov&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidkarimNiyazov&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=SaidkarimNiyazov&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
@@ -158,7 +158,7 @@
 <!-- ===== TROPHIES ===== -->
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithSaidkarim&theme=matrix&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SaidkarimNiyazov&theme=matrix&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
