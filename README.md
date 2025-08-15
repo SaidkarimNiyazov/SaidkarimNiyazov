@@ -1,23 +1,23 @@
 <!-- ===== HEADER BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:0066ff,100:ff3366&height=220&section=header&text=SAIDKARIM%20NIYAZOV&fontSize=45&fontColor=ffffff&animation=fade&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:32CD32,100:FFA500&height=220&section=header&text=SAIDKARIM%20NIYAZOV&fontSize=45&fontColor=FFFFFF&animation=fade&fontAlignY=40"/>
 </p>
 
 <!-- ===== TYPING NAME EFFECT ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=SAIDKARIM+NIYAZOV;Tech+Enthusiast;Cybersecurity+Learner;Fast+Learner;Mentor;Volunteering+for+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=SAIDKARIM+NIYAZOV;Tech+Enthusiast;Cybersecurity+Learner;Fast+Learner;Mentor;Volunteering+for+Tech" alt="Typing SVG" />
 </p>
 
 <!-- ===== SOCIAL LINKS ===== -->
 <p align="center">
   <a href="https://t.me/Saidkarimniyazov">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black&color=00FF99" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1B2A&color=00BFFF" />
   </a>
   <a href="https://www.linkedin.com/in/saidkarim-niyazov-23202a378">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=0066FF" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1B2A&color=00BFFF" />
   </a>
   <a href="https://github.com/SaidkarimNiyazov">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=FF3366" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1B2A&color=FFA500" />
   </a>
 </p>
 
@@ -36,10 +36,10 @@
 <!-- ===== TECH STACK & SKILLS ===== -->
 <h2 align="center">🛠 Tech Stack & Skills</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-Learning-00599C?style-for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Intermediate-FCC624?style-for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Networking-Basic-4682B4?style-for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-Basic-1679A7?style-for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-Learning-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Intermediate-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Networking-Basic-4682B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-Basic-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 ---
@@ -47,10 +47,10 @@
 <!-- ===== CURRENTLY LEARNING ===== -->
 <h2 align="center">📚 Currently Learning</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-Intermediate-00599C?style-for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style-for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Basic-FF3366?style-for-the-badge" />
-  <img src="https://img.shields.io/badge/Networking-Advanced-4682B4?style-for-the-badge" />
+  <img src="https://img.shields.io/badge/C-Intermediate-00BFFF?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Beginner-32CD32?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Basic-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-Advanced-FFA500?style=for-the-badge" />
 </p>
 
 ---
