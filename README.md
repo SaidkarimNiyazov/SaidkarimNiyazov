@@ -110,13 +110,12 @@
 </p>
 
 ---
-
 <!-- ===== CERTIFICATIONS ===== -->
 <h2 align="center">🏅 Certifications</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Top_1%25-00FF99?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HackTheBox-Active-0066FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CompTIA_Security%2B-FF3366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TryHackMe_Top_1%-00FF99?style-for-the-badge" />
+  <img src="https://img.shields.io/badge/HackTheBox_Active-0066FF?style-for-the-badge" />
+  <img src="https://img.shields.io/badge/CompTIA_Security+-FF3366?style-for-the-badge" />
 </p>
 
 ---
@@ -171,4 +170,3 @@
 <p align="center">
   <img src="https://i.ibb.co/1Jg6VwD/thanks-for-visiting-neon.gif" width="80%" />
 </p>
-
