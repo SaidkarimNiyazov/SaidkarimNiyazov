@@ -1,6 +1,6 @@
 <!-- ===== HEADER BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:32CD32,100:FFA500&height=220&section=header&text=SAIDKARIM%20NIYAZOV&fontSize=45&fontColor=FFFFFF&animation=fade&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:32CD32&height=220&section=header&text=SAIDKARIM%20NIYAZOV&fontSize=45&fontColor=FFFFFF&animation=fade&fontAlignY=40"/>
 </p>
 
 
