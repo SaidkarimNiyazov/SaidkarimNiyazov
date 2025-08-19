@@ -1,5 +1,9 @@
 <!-- ===== NEON MATRIX BANNER ===== -->
 <p align="center">
+  <img src="https://link-to-your-matrix-banner.gif" alt="Matrix Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:0066ff,100:ff3366&height=220&section=header&text=SAIDKARIM%20NIYAZOV&fontSize=45&fontColor=ffffff&animation=fade&fontAlignY=40"/>
 </p>
 
