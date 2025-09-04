@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code gif" align="middle" width="935" height="220" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code gif" align="middle" width="900" height="220" />
 
 <!-- ===== NEON MATRIX BANNER ===== -->
 <p align="center">
