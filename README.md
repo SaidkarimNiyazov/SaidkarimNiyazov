@@ -1,8 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code gif" align="right" width="4000" height="300" />
 
-![Main Image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
 <!-- ===== NEON MATRIX BANNER ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:0066ff,100:ff3366&height=220&section=header&text=SAIDKARIM%20NIYAZOV&fontSize=45&fontColor=ffffff&animation=fade&fontAlignY=40"/>
