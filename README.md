@@ -1,6 +1,7 @@
 <!-- ===== NEON MATRIX BANNER ===== -->
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code gif" align="left" width="935" height="220" />
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:0066ff,100:ff3366&height=220&section=header&text=SAIDKARIM%20NIYAZOV&fontSize=45&fontColor=ffffff&animation=fade&fontAlignY=45"/>
+</p>
 <!-- ===== HEADER BANNER ===== -->
 <p align="center">
   <img src="https://i.ibb.co/k2j0KFt/neon-hacker-banner.gif" alt="Hacker Banner" width="100%" />
